@@ -1,4 +1,6 @@
-# React-three-fiber starter app, with TypeScript (Vite)
+# growable city - simple react-three-fiber test
+
+(Just testing my React-three-fiber starter app, with TypeScript (Vite))
 
 ## Installation
 
